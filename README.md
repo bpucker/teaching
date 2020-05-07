@@ -33,5 +33,7 @@ Friedrich, A., & **Pucker, B.** (2018). Peer-review as a teaching method. Workin
 
 **Pucker, B.** Schilbert, H.M., Schumacher, S.F. (2019). Integrating Molecular Biology and Bioinformatics Education. Journal of Integrative Bioinformatics. doi:[10.1515/jib-2019-0005](https://doi.org/10.1515/jib-2019-0005).
 
-Pucker, B., Holtgräwe, D., Rosleff Sörensen, T., Stracke, R., Viehöver, P., and Weisshaar, B. (2016). A de novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny. PloS-ONE 11:e0164321. doi:[10.1371/journal.pone.0164321](https://doi.org/10.1371/journal.pone.0164321).
+**Pucker, B.**, Holtgräwe, D., Rosleff Sörensen, T., Stracke, R., Viehöver, P., and Weisshaar, B. (2016). A de novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny. PloS-ONE 11:e0164321. doi:[10.1371/journal.pone.0164321](https://doi.org/10.1371/journal.pone.0164321).
+
+Haak, M., Vinke, S., Keller, W., Droste, J., Rückert, C., Kalinowski, J., & **Pucker, B.** (2018). High Quality de novo Transcriptome Assembly of Croton tiglium. Frontiers in Molecular Biosciences, 5. doi:https://doi.org/10.3389/fmolb.2018.00062.
 
