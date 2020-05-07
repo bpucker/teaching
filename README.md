@@ -3,25 +3,25 @@
 ## Applied Python Programming for Life Scientists
 The intention of this course is to enable life scientists with different backgrounds to solve their own data analysis issues by writing small Python scripts for the automatic processing. Evaluation results of this course are discussed [here](https://pub.uni-bielefeld.de/download/2920633/2920815). All materials are available for re-use (CC-BY 4.0).
 
-https://github.com/bpucker/APPLS
+[Applied Python Programming for Life Scientists - github repository](https://github.com/bpucker/APPLS)
 
 
 ## Applied Genome Research
 This course provides an overview of bioinformatic methods frequently used in genome research. Participants run all analysis on real data sets. Evaluation results of this course are discussed [here](https://doi.org/10.1515/jib-2019-0005). All materials are available for re-use (CC-BY 4.0).
 
-https://github.com/bpucker/AppliedGenomeResearch
+[Applied Genome Research - github repository](https://github.com/bpucker/AppliedGenomeResearch)
 
 
 ## Molecular Methods in Genome Research
 This course provides an overview of molecular biology methods frequently used in genome research. Participants run all analysis on real data sets. Each participant is performing a different experiment. Evaluation results of this course are discussed [here](https://doi.org/10.1515/jib-2019-0005). All materials are available for re-use (CC-BY 4.0).
 
-https://github.com/bpucker/MolecularMethodsInGenomeResearch
+[Molecular Methods in Genome Research - github repository](https://github.com/bpucker/MolecularMethodsInGenomeResearch)
 
 
 ## Synthetic Biology (iGEM)
 iGEM is the biggest synthetic biology competition for students. Teams from Bielefeld are participating since 2010. Detailed information about iGEM at the Center for Biotechnology (CeBiTec) at Bielefeld University is available here:
 
-https://igem-bielefeld.de/en/
+[iGEM Bielefeld-CeBiTec](https://igem-bielefeld.de/en/)
 
 
 ## Bielefelder certificate of higher education
