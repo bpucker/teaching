@@ -36,11 +36,15 @@ A fellowship provided by the Stifterverband supported the development of a digit
 
 # References
 
+## Teaching publications
+
 Friedrich, A., & **Pucker, B.** (2018). Peer-review as a teaching method. Working Paper der AG Forschendes Lernen in der dghd, 2, 2018. Carl von Ossietzky Universität Oldenburg.[PDF](https://pub.uni-bielefeld.de/download/2920633/2920815)
 
 
 **Pucker, B.** Schilbert, H.M., Schumacher, S.F. (2019). Integrating Molecular Biology and Bioinformatics Education. Journal of Integrative Bioinformatics. doi:[10.1515/jib-2019-0005](https://doi.org/10.1515/jib-2019-0005).
 
+
+## Data set publications
 
 **Pucker, B.**, Holtgräwe, D., Rosleff Sörensen, T., Stracke, R., Viehöver, P., and Weisshaar, B. (2016). A de novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny. PloS-ONE 11:e0164321. doi:[10.1371/journal.pone.0164321](https://doi.org/10.1371/journal.pone.0164321).
 
