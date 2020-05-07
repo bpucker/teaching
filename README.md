@@ -25,12 +25,12 @@ https://igem-bielefeld.de/en/
 
 
 ## Bielefelder certificate of higher education
-In 2017, I received the Bielefelder certificate of higher education. Details are available [here](https://www.uni-bielefeld.de/einrichtungen/zll/hdle/fortbildungen/zertifikat/) (German only).
+In 2017, I received the Bielefelder certificate of higher education. Details are available [here](https://www.uni-bielefeld.de/einrichtungen/zll/hdle/fortbildungen/zertifikat/) (in German). A description of my teaching project is available [here](http://docplayer.org/123503344-Angewandte-genomforschung-ngs-datenanalyse-fuer-biowissenschaftlerinnen.html) (in German).
 
 
 
 ## Fellowship Digital innovations in higher education
-A fellowship provided by the Stifterverband supported the development of a digital lab book for practical courses in the life sciences. 'Molecular Methods in Genome Research' was implemented as part of this fellowship. A detailed project description can be found [here](https://www.stifterverband.org/digital-lehrfellows/2017/pucker) (German only).
+A fellowship provided by the Stifterverband supported the development of a digital lab book for practical courses in the life sciences. 'Molecular Methods in Genome Research' was implemented as part of this fellowship. A detailed project description can be found [here](https://www.stifterverband.org/digital-lehrfellows/2017/pucker) (in German).
 
 
 
@@ -49,5 +49,5 @@ Friedrich, A., & **Pucker, B.** (2018). Peer-review as a teaching method. Workin
 **Pucker, B.**, Holtgräwe, D., Rosleff Sörensen, T., Stracke, R., Viehöver, P., and Weisshaar, B. (2016). A de novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny. PloS-ONE 11:e0164321. doi:[10.1371/journal.pone.0164321](https://doi.org/10.1371/journal.pone.0164321).
 
 
-Haak, M., Vinke, S., Keller, W., Droste, J., Rückert, C., Kalinowski, J., & **Pucker, B.** (2018). High Quality de novo Transcriptome Assembly of Croton tiglium. Frontiers in Molecular Biosciences, 5. doi:https://doi.org/10.3389/fmolb.2018.00062.
+Haak, M., Vinke, S., Keller, W., Droste, J., Rückert, C., Kalinowski, J., & **Pucker, B.** (2018). High Quality de novo Transcriptome Assembly of Croton tiglium. Frontiers in Molecular Biosciences, 5. doi:[10.3389/fmolb.2018.00062](https://doi.org/10.3389/fmolb.2018.00062).
 
