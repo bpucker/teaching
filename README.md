@@ -5,6 +5,12 @@ The intention of this course is to enable life scientists with different backgro
 
 [Applied Python Programming for Life Scientists - github repository](https://github.com/bpucker/APPLS)
 
+<a href="https://github.com/bpucker/APPLS">
+<img alt="Flavonoid biosynthesis pathway overview" src="https://github.com/bpucker/figures/blob/main/Python_course.png" width="50%" height="50%">
+</a>  
+
+
+
 
 ## Applied Genome Research
 This course provides an overview of bioinformatic methods frequently used in genome research. Participants run all analysis on real data sets. Evaluation results of this course are discussed [here](https://doi.org/10.1515/jib-2019-0005). All materials are available for re-use (CC-BY 4.0).
