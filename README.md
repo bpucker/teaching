@@ -62,7 +62,7 @@ A fellowship provided by the Stifterverband supported the development of a digit
 
 <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">
 <img alt="Stifterverband Logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Stifterverband_%284C%29_.jpg" width="20%" height="20%">
-<img alt="Exzellenz in der Lehre Logo" src="https://www.stifterverband.org/sites/default/files/styles/1280x720_c70/public/exzellenz_in_der_lehre_logo.jpg?itok=IVJXjA4R" width="40%" height="40%">
+<img alt="Exzellenz in der Lehre Logo" src="https://www.stifterverband.org/sites/default/files/styles/1280x720_c70/public/exzellenz_in_der_lehre_logo.jpg?itok=IVJXjA4R" width="30%" height="30%">
 </a>
 
 
