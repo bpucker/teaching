@@ -52,6 +52,9 @@ iGEM is the biggest synthetic biology competition for students. Teams from Biele
 ## Bielefelder certificate of higher education
 In 2017, I received the Bielefelder certificate of higher education. Details are available [here](https://www.uni-bielefeld.de/einrichtungen/zll/hdle/fortbildungen/zertifikat/) (in German). A description of my teaching project is available [here](http://docplayer.org/123503344-Angewandte-genomforschung-ngs-datenanalyse-fuer-biowissenschaftlerinnen.html) (in German).
 
+<img alt="higher education certificate" src="https://github.com/bpucker/figures/blob/main/higher_education_certificate.png" width="30%" height="30%">
+
+
 
 
 ## Fellowship Digital innovations in higher education
