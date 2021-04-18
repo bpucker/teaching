@@ -41,15 +41,12 @@ iGEM is the biggest synthetic biology competition for students. Teams from Biele
 
 [iGEM Bielefeld-CeBiTec](https://igem-bielefeld.de/en/)
 
+<a href="https://igem-bielefeld.de/en/">
 <div>
-<a href="https://igem-bielefeld.de/en/">
 <img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="50%" height="50%">
-</a>  
-
-<a href="https://igem-bielefeld.de/en/">
 <img alt="CeBiTec" src="http://2011.igem.org/wiki/images/e/ec/Bielefeld-Germany2011-CeBiTec.jpg" width="50%" height="50%">
-</a>  
 </div>
+</a>  
 
 
 ## Bielefelder certificate of higher education
