@@ -43,7 +43,7 @@ iGEM is the biggest synthetic biology competition for students. Teams from Biele
 
 <a href="https://igem-bielefeld.de/en/">
 <div>
-<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="30%" height="30%">
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="20%" height="20%">
 <img alt="CeBiTec" src="http://2011.igem.org/wiki/images/e/ec/Bielefeld-Germany2011-CeBiTec.jpg" width="30%" height="30%">
 </div>
 </a>  
@@ -61,8 +61,8 @@ In 2017, I received the Bielefelder certificate of higher education. Details are
 A fellowship provided by the Stifterverband supported the development of a digital lab book for practical courses in the life sciences. 'Molecular Methods in Genome Research' was implemented as part of this fellowship. A detailed project description can be found [here](https://www.stifterverband.org/digital-lehrfellows/2017/pucker) (in German).
 
 <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">
-<img alt="Stifterverband Logo" src="https://www.stifterverband.org/sites/all/themes/stifterverband/images/logos/sv.svg" width="30%" height="30%">
-<img alt="Exzellenz in der Lehre Logo" src="https://www.stifterverband.org/sites/default/files/styles/1280x720_c70/public/exzellenz_in_der_lehre_logo.jpg?itok=IVJXjA4R" width="50%" height="50%">
+<img alt="Stifterverband Logo" src="https://www.stifterverband.org/sites/all/themes/stifterverband/images/logos/sv.svg" width="20%" height="20%">
+<img alt="Exzellenz in der Lehre Logo" src="https://www.stifterverband.org/sites/default/files/styles/1280x720_c70/public/exzellenz_in_der_lehre_logo.jpg?itok=IVJXjA4R" width="40%" height="40%">
 </a>
 
 
