@@ -1,7 +1,7 @@
 # Teaching Overview
 
 ## Applied Python Programming for Life Scientists
-The intention of this course is to enable life scientists with different backgrounds to solve their own data analysis issues by writing small Python scripts for the automatic processing. Evaluation results of this course are discussed [here](https://pub.uni-bielefeld.de/download/2920633/2920815). All materials are available for re-use (CC-BY 4.0).
+The intention of this course is to enable life scientists with different backgrounds to solve their own data analysis issues by writing Python scripts for the automatic processing. Evaluation results of this course are discussed [here](https://pub.uni-bielefeld.de/download/2920633/2920815). All materials are available for re-use (CC-BY 4.0).
 
 [Applied Python Programming for Life Scientists - github repository](https://github.com/bpucker/APPLS)
 
@@ -40,6 +40,14 @@ This course provides an overview of molecular biology methods frequently used in
 iGEM is the biggest synthetic biology competition for students. Teams from Bielefeld are participating since 2010. Detailed information about iGEM at the Center for Biotechnology (CeBiTec) at Bielefeld University is available here:
 
 [iGEM Bielefeld-CeBiTec](https://igem-bielefeld.de/en/)
+
+<a href="https://igem-bielefeld.de/en/">
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="50%" height="50%">
+</a>  
+
+<a href="https://igem-bielefeld.de/en/">
+<img alt="CeBiTec" src="http://2011.igem.org/wiki/images/e/ec/Bielefeld-Germany2011-CeBiTec.jpg" width="50%" height="50%">
+</a>  
 
 
 ## Bielefelder certificate of higher education
