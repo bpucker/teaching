@@ -66,9 +66,6 @@ A fellowship provided by the Stifterverband supported the development of a digit
 </a>
 
 
-
-
-
 # References
 
 ## Teaching publications
