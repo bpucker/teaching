@@ -19,7 +19,7 @@ This course provides an overview of bioinformatic methods frequently used in gen
 
 
 <a href="https://github.com/bpucker/AppliedGenomeResearch">
-<img alt="Applied Genome Research course content overview" src="https://github.com/bpucker/figures/blob/main/AppliedGenomeReserachCourseContentOverview.png" width="50%" height="50%">
+<img alt="Applied Genome Research course content overview" src="https://github.com/bpucker/figures/blob/main/AppliedGenomeReserachCourseContentOverview.png" width="100%" height="100%">
 </a>  
 
 
