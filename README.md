@@ -18,10 +18,22 @@ This course provides an overview of bioinformatic methods frequently used in gen
 [Applied Genome Research - github repository](https://github.com/bpucker/AppliedGenomeResearch)
 
 
+<a href="https://github.com/bpucker/AppliedGenomeResearch">
+<img alt="Applied Genome Research course content overview" src="https://github.com/bpucker/figures/blob/main/AppliedGenomeReserachCourseContentOverview.png" width="50%" height="50%">
+</a>  
+
+
+
 ## Molecular Methods in Genome Research
 This course provides an overview of molecular biology methods frequently used in genome research. Participants run all analysis on real data sets. Each participant is performing a different experiment. Evaluation results of this course are discussed [here](https://doi.org/10.1515/jib-2019-0005). All materials are available for re-use (CC-BY 4.0).
 
 [Molecular Methods in Genome Research - github repository](https://github.com/bpucker/MolecularMethodsInGenomeResearch)
+
+
+<a href="https://github.com/bpucker/MolecularMethodsInGenomeResearch">
+<img alt="Molecular Methods in Genome Research course content overview" src="https://github.com/bpucker/figures/blob/main/MolecularMethodsInGenomeReserachCourseOverview.png" width="50%" height="50%">
+</a>  
+
 
 
 ## Synthetic Biology (iGEM)
