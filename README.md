@@ -6,7 +6,7 @@ The intention of this course is to enable life scientists with different backgro
 [Applied Python Programming for Life Scientists - github repository](https://github.com/bpucker/APPLS)
 
 <a href="https://github.com/bpucker/APPLS">
-<img alt="Flavonoid biosynthesis pathway overview" src="https://github.com/bpucker/figures/blob/main/Python_course.png" width="50%" height="50%">
+<img alt="APPLS" src="https://github.com/bpucker/figures/blob/main/Python_course.png" width="50%" height="50%">
 </a>  
 
 
