@@ -1,6 +1,13 @@
 # Teaching Overview
 
-## Applied Python Programming for Life Scientists
+
+## Teaching at TU Braunschweig
+Coming soon ...
+
+
+## Teaching at Bielefeld University (CeBiTec)
+
+### Applied Python Programming for Life Scientists
 The intention of this course is to enable life scientists with different backgrounds to solve their own data analysis issues by writing Python scripts for the automatic processing. Evaluation results of this course are discussed [here](https://pub.uni-bielefeld.de/download/2920633/2920815). All materials are available for re-use (CC-BY 4.0).
 
 [Applied Python Programming for Life Scientists - github repository](https://github.com/bpucker/APPLS)
@@ -12,7 +19,7 @@ The intention of this course is to enable life scientists with different backgro
 
 
 
-## Applied Genome Research
+### Applied Genome Research
 This course provides an overview of bioinformatic methods frequently used in genome research. Participants run all analysis on real data sets. Evaluation results of this course are discussed [here](https://doi.org/10.1515/jib-2019-0005). All materials are available for re-use (CC-BY 4.0).
 
 [Applied Genome Research - github repository](https://github.com/bpucker/AppliedGenomeResearch)
@@ -24,7 +31,7 @@ This course provides an overview of bioinformatic methods frequently used in gen
 
 
 
-## Molecular Methods in Genome Research
+### Molecular Methods in Genome Research
 This course provides an overview of molecular biology methods frequently used in genome research. Participants run all analysis on real data sets. Each participant is performing a different experiment. Evaluation results of this course are discussed [here](https://doi.org/10.1515/jib-2019-0005). All materials are available for re-use (CC-BY 4.0).
 
 [Molecular Methods in Genome Research - github repository](https://github.com/bpucker/MolecularMethodsInGenomeResearch)
@@ -36,7 +43,7 @@ This course provides an overview of molecular biology methods frequently used in
 
 
 
-## Synthetic Biology (iGEM)
+### Synthetic Biology (iGEM)
 iGEM is the biggest synthetic biology competition for students. Teams from Bielefeld are participating since 2010. Detailed information about iGEM at the Center for Biotechnology (CeBiTec) at Bielefeld University is available here:
 
 [iGEM Bielefeld-CeBiTec](https://igem-bielefeld.de/en/)
@@ -49,7 +56,7 @@ iGEM is the biggest synthetic biology competition for students. Teams from Biele
 </a>  
 
 
-## Bielefelder certificate of higher education
+### Bielefelder certificate of higher education
 In 2017, I received the Bielefelder Certificate in Higher Education. Details are available [here](https://www.uni-bielefeld.de/einrichtungen/zll/hdle/fortbildungen/zertifikat/) (in German). A description of my teaching project is available [here](http://docplayer.org/123503344-Angewandte-genomforschung-ngs-datenanalyse-fuer-biowissenschaftlerinnen.html) (in German).
 
 <img alt="higher education certificate" src="https://github.com/bpucker/figures/blob/main/higher_education_certificate.png" width="50%" height="50%">
@@ -57,7 +64,7 @@ In 2017, I received the Bielefelder Certificate in Higher Education. Details are
 
 
 
-## Fellowship Digital innovations in higher education
+### Fellowship Digital innovations in higher education
 A fellowship provided by the Stifterverband supported the development of a digital lab book for practical courses in the life sciences. 'Molecular Methods in Genome Research' was implemented as part of this fellowship. A detailed project description can be found [here](https://www.stifterverband.org/digital-lehrfellows/2017/pucker) (in German).
 
 <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">
