@@ -47,6 +47,14 @@ This course provides an overview of molecular biology methods frequently used in
 
 
 ### Synthetic Biology (iGEM)
+
+#### iGEM teams at TU Braunschweig
+
+Starting in 2022, teams of students at the TU Braunschweig are planning to participate in iGEM again: [iGEM TUBS](https://www.tu-braunschweig.de/ifp/pbb/igem).
+
+
+#### iGEM teams Bielefeld-CeBiTec 
+
 iGEM is the biggest synthetic biology competition for students. Teams from Bielefeld are participating since 2010. Detailed information about iGEM at the Center for Biotechnology (CeBiTec) at Bielefeld University is available here:
 
 [iGEM Bielefeld-CeBiTec](https://igem-bielefeld.de/en/)
