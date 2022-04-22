@@ -7,6 +7,8 @@ PuckerLab website: [Pucker lab website at TU Braunschweig](https://www.tu-brauns
 ### MB09 - Introduction to Biochemistry and Bioinformatics of Plants
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics).
 
+### iGEM @ TU Braunschweig ###
+[PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) is hosting the [TU Braunschweig iGEM team 2022](https://www.tu-braunschweig.de/ifp/pbb/igem).
 
 
 ## Teaching at Bielefeld University (CeBiTec)
