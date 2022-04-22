@@ -2,9 +2,10 @@
 
 
 ## Teaching at TU Braunschweig
-Coming soon ...
+PuckerLab website: [Pucker lab website at TU Braunschweig](https://www.tu-braunschweig.de/en/ifp/pbb)
 
-[Pucker lab website at TU Braunschweig](https://www.tu-braunschweig.de/en/ifp/pbb)
+### MB09 - Introduction to Biochemistry and Bioinformatics of Plants
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics).
 
 
 
