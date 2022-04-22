@@ -10,6 +10,12 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 ### iGEM @ TU Braunschweig ###
 [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) is hosting the [TU Braunschweig iGEM team 2022](https://www.tu-braunschweig.de/ifp/pbb/igem).
 
+<a href="https://igem-bielefeld.de/en/">
+<div>
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="20%" height="20%">
+</div>
+</a>  
+
 
 ## Teaching at Bielefeld University (CeBiTec)
 
