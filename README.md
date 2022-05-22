@@ -7,6 +7,14 @@ PuckerLab website: [Pucker lab website at TU Braunschweig](https://www.tu-brauns
 ### MB09 - Introduction to Biochemistry and Bioinformatics of Plants
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics).
 
+### GE31/MM12 - Applied Plant Genomics (in preparation)
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics).
+
+### GE32/MM12 - Data Literacy in Plant Sciences (in preparation)
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences).
+
+
+
 ### iGEM @ TU Braunschweig ###
 [PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) is hosting the [TU Braunschweig iGEM team 2022](https://www.tu-braunschweig.de/ifp/pbb/igem).
 
