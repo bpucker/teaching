@@ -2,7 +2,3 @@
 
 Materials are available under a CC BY 4.0 license. Please feel free to re-use the material, but acknowledge the source.
 
-Data sets required for the exercises are available here: [gene expression data](https://docs.cebitec.uni-bielefeld.de/s/g6r5qgJfzNPSsp8). 
-The covered species are _Arabidopsis thaliana_, _Medicago truncatula_, _Musa acuminata_, and _Solanum lycopersicum_. 
-The quantification of gene expression was performed with kallisto based on the annotation distributed by Phytozome.
-
