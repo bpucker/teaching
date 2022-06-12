@@ -8,7 +8,7 @@ PuckerLab website: [Pucker lab website at TU Braunschweig](https://www.tu-brauns
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/MB09_PlantBiochemistryBioinformatics).
 
 ### GE31/MM12 - Applied Plant Genomics (in preparation)
-Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics).
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE31_AppliedPlantGenomics). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/AppliedPlantGenomics).
 
 ### GE32/MM12 - Data Literacy in Plant Sciences (in preparation)
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences).
