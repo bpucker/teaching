@@ -13,7 +13,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 ### GE32/MM12 - Data Literacy in Plant Sciences
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/GE32_DataLiteracyInPlantSciences). Scripts and instructions of the bioinformatics component are available [here](https://github.com/bpucker/DataLiteracyInPlantSciences).
 
-### XXX - Python for Life Scientists (in preparation)
+### XXX - Python for Life Scientists
 Material used in this course can be found [here](https://github.com/bpucker/PythonTUBS). Additional data sets are available [here](https://cloud.tu-braunschweig.de/s/HXrzS4pFrLxdAMb).
 
 ### XXX - Applied Plant Transcriptomics (in preparation)
