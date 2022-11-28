@@ -17,7 +17,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 Material used in this course can be found [here](https://github.com/bpucker/PythonTUBS). Additional data sets are available [here](https://cloud.tu-braunschweig.de/s/HXrzS4pFrLxdAMb).
 
 ### FRX - Data Literacy in Genome Research / Genomics
-Material used in this course can be found [here]().
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/FRX_DataLiteracyInGenomeResearch).
 
 ### TUBS - Applied Plant Transcriptomics (in preparation)
 Material used in this course can be found [here](https://github.com/bpucker/AppliedPlantTranscriptomics).
