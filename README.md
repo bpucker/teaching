@@ -19,8 +19,12 @@ Material used in this course can be found [here](https://github.com/bpucker/Pyth
 ### FRX - Data Literacy in Genome Research / Genomics
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/FRX_DataLiteracyInGenomeResearch).
 
-### TUBS - Applied Plant Transcriptomics (in preparation)
+### GE33 - Applied Plant Transcriptomics
 Material used in this course can be found [here](https://github.com/bpucker/AppliedPlantTranscriptomics).
+
+### LMChemBSc-12 - Molecular Plant Biology for Food Chemists (in preparation)
+Material used in this course can be found [here](https://github.com/bpucker/AppliedPlantTranscriptomics).
+
 
 
 ### iGEM @ TU Braunschweig ###
