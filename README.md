@@ -23,12 +23,26 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 Material used in this course can be found [here](https://github.com/bpucker/AppliedPlantTranscriptomics).
 
 ### LMChemBSc-12 - Molecular Plant Biology for Food Chemists (in preparation)
-Material used in this course can be found [here](https://github.com/bpucker/AppliedPlantTranscriptomics).
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/LMChemBSc-12).
 
 
 
 ### iGEM @ TU Braunschweig ###
-[PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) is hosting the [TU Braunschweig iGEM team 2022](https://www.tu-braunschweig.de/en/igem/2022).
+
+#### iGEM2023 @ TU Braunschweig
+
+[PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) is hosting the [TU Braunschweig iGEM team 2023](https://www.tu-braunschweig.de/en/igem/2023).
+
+<a href="https://www.tu-braunschweig.de/en/igem/2023">
+<div>
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="20%" height="20%">
+</div>
+</a>  
+
+
+#### iGEM2022 @ TU Braunschweig
+
+[PuckerLab](https://www.tu-braunschweig.de/en/ifp/pbb) hosted the [TU Braunschweig iGEM team 2022](https://www.tu-braunschweig.de/en/igem/2022).
 
 <a href="https://www.tu-braunschweig.de/en/igem/2022">
 <div>
