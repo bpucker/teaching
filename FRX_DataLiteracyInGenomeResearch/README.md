@@ -1,9 +1,16 @@
 
 # Data Literacy in Plant Genome Research
 
-Additional information about the module are available at the [PuckerLab website](https://www.tu-braunschweig.de/ifp/pbb/teaching/dalip).
+Additional information about the module are available at the [PuckerLab website](https://www.tu-braunschweig.de/ifp/pbb/teaching/dalip). Please feel free to reuse the materials in your courses. We would appreciate if you could acknowledge the source.
 
-Please feel free to reuse the materials in your courses. We would appreciate if you could acknowledge the source.
+## Topics
+
+1) Introduction to data literacy and plant genomics
+2) Sequencing technologies (Sanger, Illumina, PacBio, ONT)
+3) De novo genome sequence assembly and annotation
+4) Comparative genomics
+5) Data submission & publishing process
+
 
 ## Interested in ONT sequencing?
 We described the technology, the recent progress in the research field and future developments in a review article: "[Plant genome sequence assembly in the era of long reads: Progress, challenges and future directions](https://doi.org/10.1017/qpb.2021.18)"
