@@ -16,6 +16,13 @@ We described the technology, the recent progress in the research field and futur
 ## Interested in DNA extraction from Plants?
 Our protocol is freely available on protocols.io: "[Plant DNA extraction and preparation for ONT sequencing](https://dx.doi.org/10.17504/protocols.io.bcvyiw7w)".
 
+
+<a href="https://dx.doi.org/10.17504/protocols.io.bcvyiw7w">
+<img alt="gDNA" src="https://content.protocols.io/public/efa3ef1c490f52001426a207ba391b3a6a88230fa4d6a1819c801284cb80e398/bzdbbbq57.jpeg" width="30%" height="30%">
+</a>
+
+
+
 ## References
 This repository.
 
