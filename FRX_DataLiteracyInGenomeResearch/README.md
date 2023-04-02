@@ -5,6 +5,9 @@ Additional information about the module are available at the [PuckerLab website]
 
 Please feel free to reuse the materials in your courses. We would appreciate if you could acknowledge the source.
 
+## Interested in ONT sequencing?
+We described the technology, the recent progress in the research field and future developments in a review article: "[Plant genome sequence assembly in the era of long reads: Progress, challenges and future directions](https://doi.org/10.1017/qpb.2021.18)"
+
 
 ## References
 This repository.
