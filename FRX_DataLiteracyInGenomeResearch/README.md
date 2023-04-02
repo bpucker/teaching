@@ -8,6 +8,8 @@ Please feel free to reuse the materials in your courses. We would appreciate if 
 ## Interested in ONT sequencing?
 We described the technology, the recent progress in the research field and future developments in a review article: "[Plant genome sequence assembly in the era of long reads: Progress, challenges and future directions](https://doi.org/10.1017/qpb.2021.18)"
 
+## Interested in DNA extraction from Plants?
+Our protocol is freely available on protocols.io: "[Plant DNA extraction and preparation for ONT sequencing](https://dx.doi.org/10.17504/protocols.io.bcvyiw7w)".
 
 ## References
 This repository.
