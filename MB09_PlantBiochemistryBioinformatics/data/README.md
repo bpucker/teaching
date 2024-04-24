@@ -20,3 +20,5 @@ Data publication in LeoPARD: [plant gene expression](https://doi.org/10.24355/db
 
 Pucker, B., Choudhary, N., 2023. Gene expression data sets of selected plant species. doi: [10.24355/dbbs.084-202306231402-0](https://doi.org/10.24355/dbbs.084-202306231402-0).
 
+Choudhary N. & Pucker B. (2024). Conserved amino acid residues and gene expression patterns associated with the substrate preferences of the competing enzymes FLS and DFR. bioRxiv 2023.11.05.565693; doi: [10.1101/2023.11.05.565693](https://doi.org/10.1101/2023.11.05.565693).
+
