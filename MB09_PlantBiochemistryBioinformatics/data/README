@@ -1,3 +1,22 @@
+# Data for co-expression analyses
 This subfolder contains data sets for co-expression analyses.
 
+## CoExp ##
+A CoExp tool is available at [pbb-tools](https://pbb-tools.de/CoExp/).
+
+Input:
+File containing the genes-of-interest IDs
+Count table
+File containing the functional annotation
+
+## Additional data sets ##
+
+Public data through [cloud at CeBiTec](https://docs.cebitec.uni-bielefeld.de/s/g6r5qgJfzNPSsp8).
+
+Data publication in LeoPARD: [plant gene expression](https://doi.org/10.24355/dbbs.084-202306231402-0)
+
+
+## References ##
+
+Pucker, B., Choudhary, N., 2023. Gene expression data sets of selected plant species. doi: [10.24355/dbbs.084-202306231402-0](https://doi.org/10.24355/dbbs.084-202306231402-0).
 
