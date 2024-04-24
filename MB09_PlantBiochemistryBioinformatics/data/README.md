@@ -9,7 +9,7 @@ Input:
 - Count table (20230510_reduced_exp_data_set_ath.zip)
 - File containing the functional annotation (araport11_annotation_repr_transcript.txt)
 
-Example: Result files of a CoExp analysis. Each text file in the EXAMPLE.zip archive is the result of one gene-of-interest subjected to the analysis.
+Example: Result files of a CoExp analysis are available as an example. Each text file in the EXAMPLE.zip archive is the result of one gene-of-interest subjected to the analysis.
 
 
 ## Additional data sets ##
