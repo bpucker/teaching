@@ -15,6 +15,7 @@ Example: Result files of a CoExp analysis are available as an example. Each text
 ## Additional data sets ##
 - Public data through [cloud at CeBiTec](https://docs.cebitec.uni-bielefeld.de/s/g6r5qgJfzNPSsp8).
 - Data publication in LeoPARD: [plant gene expression](https://doi.org/10.24355/dbbs.084-202306231402-0)
+- Public data through [cloud at TUBS](https://cloud.tu-braunschweig.de/s/44SnGab2bb9AndL).
 
 
 ## References ##
