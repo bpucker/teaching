@@ -22,12 +22,12 @@ This Summer School is organized by the Plant Biotechnology and Bioinformatics gr
 - [cloning from GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 - [virtual environments](https://docs.python.org/3/library/venv.html)
 - Install tools:
-- [Shasta](https://github.com/paoloshasta/shasta)
-- [BRAKER3](https://github.com/Gaius-Augustus/BRAKER)
-- [minimap2](https://github.com/lh3/minimap2)
-- [SVIM2](https://github.com/eldariont/svim)
-- [BUSCO5](https://busco.ezlab.org/busco_userguide.html)
-- [KIPEs3](https://github.com/bpucker/KIPEs)
+    - [Shasta](https://github.com/paoloshasta/shasta)
+    - [BRAKER3](https://github.com/Gaius-Augustus/BRAKER)
+    - [minimap2](https://github.com/lh3/minimap2)
+    - [SVIM2](https://github.com/eldariont/svim)
+    - [BUSCO5](https://busco.ezlab.org/busco_userguide.html)
+    - [KIPEs3](https://github.com/bpucker/KIPEs)
 
 
 ## Day2: Genomics #1
