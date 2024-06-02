@@ -53,6 +53,11 @@ This Summer School is organized by the Plant Biotechnology and Bioinformatics gr
 
 
 ## Day3: Genomics #2 & Phylogenetics
+- Generate [circos](https://circos.ca/) plots
+- Collect sequences: [NCBI](https://www.ncbi.nlm.nih.gov/)
+- Construct a multiple sequence alignment: [MAFFT](https://mafft.cbrc.jp/alignment/server/index.html)
+- Phylogenetic tree construction: [FastTree2](http://www.microbesonline.org/fasttree/), [IQ-TREE2](http://www.iqtree.org/)
+- Visualization of a phylogenetic tree: [iTOL](https://itol.embl.de/)
 
 
 ## Day4: Transcriptomics
