@@ -61,6 +61,15 @@ This Summer School is organized by the Plant Biotechnology and Bioinformatics gr
 
 
 ## Day4: Transcriptomics
+- Retrieve RNA-seq data sets from SRA/PUB: [sra-toolkit](https://github.com/ncbi/sra-tools)
+- Quality control: [fastQC](https://github.com/s-andrews/FastQC)
+- Trimming of reads: [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)
+    - Requires renmaing reads in FASTQ file: [https://github.com/bpucker/codi/blob/main/rename_reads_for_trinity.py]
+- De novo transcriptome assembly: [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki)
+- Split read mapping: [STAR](https://physiology.med.cornell.edu/faculty/skrabanek/lab/angsd/lecture_notes/STARmanual.pdf), [HISAT2](http://daehwankimlab.github.io/hisat2/)
+- Quantification of gene expression: [kallisto](https://github.com/pachterlab/kallisto)
+- Identification of DEGs: [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html)
+- Co-expression analysis: [pbb-tools.de](https://pbb-tools.de/)
 
 
 ## Day5: Summarizing, visualizing, publishing
