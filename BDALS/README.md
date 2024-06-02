@@ -31,6 +31,25 @@ This Summer School is organized by the Plant Biotechnology and Bioinformatics gr
 
 
 ## Day2: Genomics #1
+- QC & trimming/filtering of ONT long reads: [nanostat](https://github.com/wdecoster/nanostat)
+- Assembly: [Shasta](https://github.com/paoloshasta/shasta)
+- Gene prediction: [BRAKER3](https://github.com/Gaius-Augustus/BRAKER)
+- Assess data set completeness: [BUSCO5](https://busco.ezlab.org/busco_userguide.html)
+- Functional annotation:
+    - [Mercator](https://www.plabipd.de/mercator_main.html)
+    - [KIPEs3](https://github.com/bpucker/KIPEs)
+- Find and install a tool to check read quality and perform trimming if necessary
+- Running an assembly of digi1 and digi4 with Shasta requires conversion of FASTQ to FASTA: [fastq2fasta.py](https://github.com/bpucker/PBBtools/blob/main/collection/fastq2fasta.py)
+- Calculate assembly statistics: [contig_stats3.py](https://github.com/bpucker/GenomeAssembly/blob/main/contig_stats3.py)
+- Run [BUSCO5](https://busco.ezlab.org/busco_userguide.html) on assembly
+- Install [HISAT2](http://daehwankimlab.github.io/hisat2/) and map some RNA-seq reads to the assembly
+- Run gene prediction with [BRAKER3](https://github.com/Gaius-Augustus/BRAKER)
+- Run [BUSCO5](https://busco.ezlab.org/busco_userguide.html) on structural annotation
+- Perform a functional annotation with Mercator and [KIPEs3](https://github.com/bpucker/KIPEs)
+- Map digi1 and digi4 reads with [minimap2](https://github.com/lh3/minimap2) to assembly
+- Identify sequence variants with [SVIM2](https://github.com/eldariont/svim) based on the mapping
+- Predict variant effects with [SnpEff](https://pcingola.github.io/SnpEff/) and [NAVIP](https://github.com/bpucker/NAVIP)
+- Perform a synteny analysis with between a digi1 and digi4 assembly with [MCscan/JCVI](https://github.com/tanghaibao/jcvi/wiki/MCscan-(Python-version))
 
 
 ## Day3: Genomics #2 & Phylogenetics
