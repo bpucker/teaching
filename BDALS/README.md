@@ -10,6 +10,37 @@ This Summer School is organized by the Plant Biotechnology and Bioinformatics gr
 - Day5: Summarizing, visualizing, publishing
 
 
+## Day1: Introduction
+- [Jupyter Notebook](https://jupyter.org/) is an excellent way to document
+- [de.NBI cloud](https://www.denbi.de/cloud)
+- [ssh](https://en.wikipedia.org/wiki/Secure_Shell)
+- [Filezilla](https://filezilla-project.org/)
+- [scp](https://www.freecodecamp.org/news/scp-linux-command-example-how-to-ssh-file-transfer-from-remote-to-local/)
+- [Linux basics](https://ubuntu.com/tutorials/command-line-for-beginners)
+- [Mounting disk](https://superuser.com/questions/134734/how-to-mount-a-drive-from-terminal-in-ubuntu)
+- [conda](https://conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+- [cloning from GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+- [virtual environments](https://docs.python.org/3/library/venv.html)
+- Install tools:
+- [Shasta](https://github.com/paoloshasta/shasta)
+- [BRAKER3](https://github.com/Gaius-Augustus/BRAKER)
+- [minimap2](https://github.com/lh3/minimap2)
+- [SVIM2](https://github.com/eldariont/svim)
+- [BUSCO5](https://busco.ezlab.org/busco_userguide.html)
+- [KIPEs3](https://github.com/bpucker/KIPEs)
+
+
+## Day2: Genomics #1
+
+
+## Day3: Genomics #2 & Phylogenetics
+
+
+## Day4: Transcriptomics
+
+
+## Day5: Summarizing, visualizing, publishing
+
 
 
 
