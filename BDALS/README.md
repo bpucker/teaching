@@ -73,10 +73,11 @@ This Summer School is organized by the Plant Biotechnology and Bioinformatics gr
 
 
 ## Day5: Summarizing, visualizing, publishing
-
-
-
-
+- Analyze expression data with a PCA to see similarity of replicates: [PCA instructions](https://bioconductor.org/packages/release/bioc/html/pcaExplorer.html)
+- Generate a heatmap of some anthocyanin biosynthesis genes: [Python heatmap constrution](https://seaborn.pydata.org/generated/seaborn.heatmap.html)
+- Prepare your sequencing data for submission to [ENA](https://ena-docs.readthedocs.io/en/latest/)
+- Prepare a documentation describing your genome sequence and annotation for publication through [LeoPARD](https://leopard.tu-braunschweig.de/content/index.xml)
+- Generate a [GitHub](https://github.com/) or [codeberg](https://codeberg.org/) repository and document your workflow of the week
 
 
 ## References
