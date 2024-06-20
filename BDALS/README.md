@@ -81,8 +81,9 @@ This Summer School is organized by the Plant Biotechnology and Bioinformatics gr
 
 
 ## References
+Nowak M. S., Harder B., Meckoni S. N., Friedhoff R., Wolff K., Pucker B. (2024). Genome sequence and RNA-seq analysis reveal genetic basis of flower coloration in the giant water lily Victoria cruziana. bioRxiv 2024.06.15.599162; doi: [10.1101/2024.06.15.599162](https://doi.org/10.1101/2024.06.15.599162).
 
-Wolff K.*, Friedhoff R.*, Horz J. M.*, Pucker B. (2024). Genome sequence of the medicinal and ornamental plant Digitalis purpurea reveals the molecular basis of flower color variation. bioRxiv 2024.02.14.580303; doi: [10.1101/2024.02.14.580303](https://doi.org/10.1101/2024.02.14.580303).
+Wolff K., Friedhoff R., Horz J. M., Pucker B. (2024). Genome sequence of the medicinal and ornamental plant Digitalis purpurea reveals the molecular basis of flower color variation. bioRxiv 2024.02.14.580303; doi: [10.1101/2024.02.14.580303](https://doi.org/10.1101/2024.02.14.580303).
 
 Pucker, B. (2024). Functional Annotation – How to Tackle the Bottleneck in Plant Genomics. Preprints. doi: [10.20944/preprints202402.0645.v1](https://doi.org/10.20944/preprints202402.0645.v1).
 
