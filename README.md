@@ -124,6 +124,8 @@ A fellowship provided by the Stifterverband supported the development of a digit
 
 ## Teaching publications
 
+Wolff, K.; Friedhoff, R.; Schwarzer, F.; **Pucker, B.** (2023). Data Literacy in Genome Research. Journal of Integrative Bioinformatics, 2023, pp. 20230033. doi: [10.1515/jib-2023-0033](https://doi.org/10.1515/jib-2023-0033).
+
 Friedrich, A., & **Pucker, B.** (2018). Peer-review as a teaching method. Working Paper der AG Forschendes Lernen in der dghd, 2, 2018. Carl von Ossietzky Universität Oldenburg.[PDF](https://pub.uni-bielefeld.de/download/2920633/2920815)
 
 
