@@ -46,7 +46,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 <a href="https://2023.igem.wiki/tu-braunschweig/">
 <div>
-<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="600">
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="300">
 </div>
 </a>  
 
@@ -57,7 +57,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 <a href="https://2022.igem.wiki/tu-braunschweig/">
 <div>
-<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="600">
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="300">
 </div>
 </a>  
 
@@ -109,7 +109,7 @@ iGEM is the biggest synthetic biology competition for students. Teams from Biele
 <a href="https://igem-bielefeld.de/en/">
 <div>
 <img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="300">
-<img alt="CeBiTec" src="http://2011.igem.org/wiki/images/e/ec/Bielefeld-Germany2011-CeBiTec.jpg" width="300">
+<img alt="CeBiTec" src="https://www.cebitec.uni-bielefeld.de/localmedia/images/cebitec/CeBiTec_Logo_Web187x.72.png" width="300">
 </div>
 </a>  
 
@@ -127,7 +127,6 @@ A fellowship provided by the Stifterverband supported the development of a digit
 
 <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">
 <img alt="Stifterverband Logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Stifterverband_%284C%29_.jpg" width="300">
-<img alt="Exzellenz in der Lehre Logo" src="https://www.stifterverband.org/sites/default/files/styles/1280x720_c70/public/exzellenz_in_der_lehre_logo.jpg?itok=IVJXjA4R" width="300">
 </a>
 
 
