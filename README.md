@@ -46,7 +46,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 <a href="https://2023.igem.wiki/tu-braunschweig/">
 <div>
-<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="20%" height="20%">
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="600">
 </div>
 </a>  
 
@@ -57,7 +57,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 <a href="https://2022.igem.wiki/tu-braunschweig/">
 <div>
-<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="20%" height="20%">
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="600">
 </div>
 </a>  
 
@@ -70,7 +70,7 @@ The intention of this course is to enable life scientists with different backgro
 [Applied Python Programming for Life Scientists - github repository](https://github.com/bpucker/APPLS)
 
 <a href="https://github.com/bpucker/APPLS">
-<img alt="APPLS" src="https://github.com/bpucker/figures/blob/main/Python_course.png" width="50%" height="50%">
+<img alt="APPLS" src="https://github.com/bpucker/figures/blob/main/Python_course.png" width="600">
 </a>  
 
 
@@ -83,7 +83,7 @@ This course provides an overview of bioinformatic methods frequently used in gen
 
 
 <a href="https://github.com/bpucker/AppliedGenomeResearch">
-<img alt="Applied Genome Research course content overview" src="https://github.com/bpucker/figures/blob/main/AppliedGenomeReserachCourseContentOverview.png" width="100%" height="100%">
+<img alt="Applied Genome Research course content overview" src="https://github.com/bpucker/figures/blob/main/AppliedGenomeReserachCourseContentOverview.png" width="600">
 </a>  
 
 
@@ -95,7 +95,7 @@ This course provides an overview of molecular biology methods frequently used in
 
 
 <a href="https://github.com/bpucker/MolecularMethodsInGenomeResearch">
-<img alt="Molecular Methods in Genome Research course content overview" src="https://github.com/bpucker/figures/blob/main/MolecularMethodsInGenomeReserachCourseOverview.png" width="50%" height="50%">
+<img alt="Molecular Methods in Genome Research course content overview" src="https://github.com/bpucker/figures/blob/main/MolecularMethodsInGenomeReserachCourseOverview.png" width="600">
 </a>  
 
 
@@ -108,8 +108,8 @@ iGEM is the biggest synthetic biology competition for students. Teams from Biele
 
 <a href="https://igem-bielefeld.de/en/">
 <div>
-<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="20%" height="20%">
-<img alt="CeBiTec" src="http://2011.igem.org/wiki/images/e/ec/Bielefeld-Germany2011-CeBiTec.jpg" width="30%" height="30%">
+<img alt="iGEM" src="https://github.com/bpucker/figures/blob/main/igem_logo.png" width="300">
+<img alt="CeBiTec" src="http://2011.igem.org/wiki/images/e/ec/Bielefeld-Germany2011-CeBiTec.jpg" width="300">
 </div>
 </a>  
 
@@ -117,7 +117,7 @@ iGEM is the biggest synthetic biology competition for students. Teams from Biele
 ### Bielefelder certificate of higher education
 In 2017, I received the Bielefelder Certificate in Higher Education. Details are available [here](https://www.uni-bielefeld.de/einrichtungen/zll/hdle/fortbildungen/zertifikat/) (in German). A description of my teaching project is available [here](http://docplayer.org/123503344-Angewandte-genomforschung-ngs-datenanalyse-fuer-biowissenschaftlerinnen.html) (in German).
 
-<img alt="higher education certificate" src="https://github.com/bpucker/figures/blob/main/higher_education_certificate.png" width="50%" height="50%">
+<img alt="higher education certificate" src="https://github.com/bpucker/figures/blob/main/higher_education_certificate.png" width="600">
 
 
 
@@ -126,8 +126,8 @@ In 2017, I received the Bielefelder Certificate in Higher Education. Details are
 A fellowship provided by the Stifterverband supported the development of a digital lab book for practical courses in the life sciences. 'Molecular Methods in Genome Research' was implemented as part of this fellowship. A detailed project description can be found [here](https://www.stifterverband.org/digital-lehrfellows/2017/pucker) (in German).
 
 <a href="https://www.stifterverband.org/digital-lehrfellows/2017/pucker">
-<img alt="Stifterverband Logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Stifterverband_%284C%29_.jpg" width="20%" height="20%">
-<img alt="Exzellenz in der Lehre Logo" src="https://www.stifterverband.org/sites/default/files/styles/1280x720_c70/public/exzellenz_in_der_lehre_logo.jpg?itok=IVJXjA4R" width="30%" height="30%">
+<img alt="Stifterverband Logo" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_Stifterverband_%284C%29_.jpg" width="300">
+<img alt="Exzellenz in der Lehre Logo" src="https://www.stifterverband.org/sites/default/files/styles/1280x720_c70/public/exzellenz_in_der_lehre_logo.jpg?itok=IVJXjA4R" width="300">
 </a>
 
 
