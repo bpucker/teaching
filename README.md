@@ -3,7 +3,7 @@
 
 
 ## Teaching at Uni Bonn
-PuckerLab website: [Pucker lab website at Uni Bonn](https://www.mps.uni-bonn.de)
+PuckerLab website: [Pucker lab website at Uni Bonn](https://www.pbb.uni-bonn.de)
 
 ### PFLS
 
@@ -42,7 +42,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 #### iGEM2023 @ TU Braunschweig
 
-[PuckerLab](https://www.mps.uni-bonn.de) was hosting the [TU Braunschweig iGEM team 2023](https://2023.igem.wiki/tu-braunschweig/).
+[PuckerLab](https://www.pbb.uni-bonn.de) was hosting the [TU Braunschweig iGEM team 2023](https://2023.igem.wiki/tu-braunschweig/).
 
 <a href="https://2023.igem.wiki/tu-braunschweig/">
 <div>
@@ -53,7 +53,7 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 
 #### iGEM2022 @ TU Braunschweig
 
-[PuckerLab](https://www.mps.uni-bonn.de) hosted the [TU Braunschweig iGEM team 2022](https://2022.igem.wiki/tu-braunschweig/).
+[PuckerLab](https://www.pbb.uni-bonn.de) hosted the [TU Braunschweig iGEM team 2022](https://2022.igem.wiki/tu-braunschweig/).
 
 <a href="https://2022.igem.wiki/tu-braunschweig/">
 <div>
