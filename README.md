@@ -5,12 +5,14 @@
 ## Teaching at Uni Bonn
 PuckerLab website: [Pucker lab website at Uni Bonn](https://www.pbb.uni-bonn.de)
 
-### PFLS
+### Python for Life Scientists (PFLS)
+Material used in this course can be found [here](https://github.com/bpucker/PyBo). This course if offered for Plant Sciences master students.
 
-### Plant Bioinformatics
+### Python for Biologists (WBIO-A-07)
 
-### Python for Biologists
 
+### Plant Bioinformatics (WBIO-A-08)
+Material used in this course can be found [here](https://github.com/bpucker/PlantBioinformatics)
 
 
 ## Teaching at TU Braunschweig
