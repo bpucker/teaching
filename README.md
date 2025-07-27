@@ -9,7 +9,7 @@ PuckerLab website: [Pucker lab website at Uni Bonn](https://www.pbb.uni-bonn.de)
 Material used in this course can be found [here](https://github.com/bpucker/PyBo). This course if offered for Plant Sciences master students.
 
 ### Python for Biologists (WBIO-A-07)
-
+Material is coming soon.
 
 ### Plant Bioinformatics (WBIO-A-08)
 Material used in this course can be found [here](https://github.com/bpucker/PlantBioinformatics)
