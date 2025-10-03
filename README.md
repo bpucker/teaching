@@ -14,6 +14,18 @@ Material is coming soon.
 ### Plant Bioinformatics (WBIO-A-08)
 Material used in this course can be found [here](https://github.com/bpucker/PlantBioinformatics)
 
+### iGEM
+Detailed information are available on the [iGEM team website](https://www.izmb.uni-bonn.de/en/pbb/igem).
+
+### Plant Bioinformatics and Genomics (PBPM2)
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/PBPM2)
+
+### Plant Biochemistry, Physiology and Molecular Biology (PBPM0)
+Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/PBPM)
+
+### Introduction to Molecular Plant Biology (BIO13)
+Materials are only available in German and will be added [here](https://github.com/bpucker/teaching/tree/master/BIO13) soon.
+
 
 ## Teaching at TU Braunschweig
 
