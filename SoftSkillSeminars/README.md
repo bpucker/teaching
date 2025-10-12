@@ -11,34 +11,34 @@ This repositories lists seminars available to members of the [PuckerLab](https:/
 
 
 ## Scientific Writing & Publishing Business
-How to write a thesis?
-Tools for writing manuscripts
-Managing references
-Scientific publishing business
-Journal selection
-h-index and i-index
-data publications
-preprints
-licenses
-ORCID
-corrections & retractions
+- How to write a thesis?
+- Tools for writing manuscripts
+- Managing references (Zotero)
+- Scientific publishing business
+- Journal selection
+- h-index and i-index
+- Data publications
+- Preprints
+- Licenses and open science
+- ORCID
+- Corrections & retractions
 
 
 ## Doctoral Studies
-Should you do doctoral studies?
-What is required to be successful?
-What are the different opportunities?
-How to apply/start?
-personal experiences
+- Should you do doctoral studies?
+- What is required to be successful?
+- What are the different opportunities?
+- How to apply/start?
+- Personal experiences (examples)
 
 
 ## (Academic) Career Advice
-Branding
-Visibility/Reputation
-social media
-Networking at conferences
-Organizing files and emails
-Managing research projects
-Leading a group
-Funding acquisition
+- Branding
+- Visibility/reputation
+- Social media (BlueSky, LinkedIn, Mastodon, ResearchGate, GoogleScholar)
+- Networking at conferences
+- Organizing files and emails
+- Managing numerous research projects
+- Leading a research group
+- Funding acquisition
 
