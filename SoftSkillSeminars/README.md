@@ -3,11 +3,11 @@ This repositories lists seminars available to members of the [PuckerLab](https:/
 
 
 ## Time & Project Management
-How to organize work effectively?
-Prioritizing tasks
-Planning and optimizing
-Project management
-Hands-on examples
+- How to organize work effectively?
+- How to prioritize tasks?
+- Planning and optimizing of your time management skills
+- Project management
+- Hands-on examples for time and project management
 
 
 ## Scientific Writing & Publishing Business
