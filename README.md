@@ -26,6 +26,9 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 ### Introduction to Molecular Plant Biology (BIO13)
 Materials are only available in German and will be added [here](https://github.com/bpucker/teaching/tree/master/BIO13) soon.
 
+### Soft Skill Seminar
+Internal seminars for PuckerLab members. Content is summarized [here](https://github.com/bpucker/teaching/tree/master/SoftSkillSeminars).
+
 
 ## Teaching at TU Braunschweig
 
