@@ -1,10 +1,25 @@
 # Course1: Plant Genome Sequence Assembly and Annotation (Mon-Wed, 08th - 10th Dec)
-
+- VM access
+- read statistics
+- read correction (HERRO)
+- assembly (Shasta)
+- assembly evaluation
+- BUSCO
+- RNA-seq mapping (HISAT2/STAR)
+- annotation with GeMoMa
 
 
 # Course2: From Gene Models to Biological Insights - Functional Annotation (Wed-Fri, 10th -12th Dec)
-
-
+- VM access
+- BUSCO
+- TE annotation
+- InterProScan
+- tRNA-scanSE
+- KIPEs
+- MYB_annotator
+- tree building
+- tree visualization
+- gene duplication analysis
 
 
 ## References
