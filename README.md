@@ -151,19 +151,18 @@ A fellowship provided by the Stifterverband supported the development of a digit
 
 ## Teaching publications
 
+- de Oliveira, J. A. V. S.; Choudhary, N.; Meckoni, S. N.; Nowak, M. S.; Hagedorn, M.; Pucker, B. (2025). Cookbook for Plant Genome Sequences. doi: [10.20944/preprints202508.1176.v2](https://www.doi.org/10.20944/preprints202508.1176.v2).
 
-Wolff, K.; Friedhoff, R.; Schwarzer, F.; **Pucker, B.** (2023). Data Literacy in Genome Research. Journal of Integrative Bioinformatics, 2023, pp. 20230033. doi: [10.1515/jib-2023-0033](https://doi.org/10.1515/jib-2023-0033).
+- Wolff, K.; Friedhoff, R.; Schwarzer, F.; **Pucker, B.** (2023). Data Literacy in Genome Research. Journal of Integrative Bioinformatics, 2023, pp. 20230033. doi: [10.1515/jib-2023-0033](https://doi.org/10.1515/jib-2023-0033).
 
-Friedrich, A., & **Pucker, B.** (2018). Peer-review as a teaching method. Working Paper der AG Forschendes Lernen in der dghd, 2, 2018. Carl von Ossietzky Universität Oldenburg.[PDF](https://pub.uni-bielefeld.de/download/2920633/2920815)
+- Friedrich, A., & **Pucker, B.** (2018). Peer-review as a teaching method. Working Paper der AG Forschendes Lernen in der dghd, 2, 2018. Carl von Ossietzky Universität Oldenburg.[PDF](https://pub.uni-bielefeld.de/download/2920633/2920815)
 
-
-**Pucker, B.** Schilbert, H.M., Schumacher, S.F. (2019). Integrating Molecular Biology and Bioinformatics Education. Journal of Integrative Bioinformatics. doi:[10.1515/jib-2019-0005](https://doi.org/10.1515/jib-2019-0005).
+- **Pucker, B.** Schilbert, H.M., Schumacher, S.F. (2019). Integrating Molecular Biology and Bioinformatics Education. Journal of Integrative Bioinformatics. doi:[10.1515/jib-2019-0005](https://doi.org/10.1515/jib-2019-0005).
 
 
 ## Data set publications
 
-**Pucker, B.**, Holtgräwe, D., Rosleff Sörensen, T., Stracke, R., Viehöver, P., and Weisshaar, B. (2016). A de novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny. PloS-ONE 11:e0164321. doi:[10.1371/journal.pone.0164321](https://doi.org/10.1371/journal.pone.0164321).
+- **Pucker, B.**, Holtgräwe, D., Rosleff Sörensen, T., Stracke, R., Viehöver, P., and Weisshaar, B. (2016). A de novo Genome Sequence Assembly of the Arabidopsis thaliana Accession Niederzenz-1 Displays Presence/Absence Variation and Strong Synteny. PloS-ONE 11:e0164321. doi:[10.1371/journal.pone.0164321](https://doi.org/10.1371/journal.pone.0164321).
 
-
-Haak, M., Vinke, S., Keller, W., Droste, J., Rückert, C., Kalinowski, J., & **Pucker, B.** (2018). High Quality de novo Transcriptome Assembly of Croton tiglium. Frontiers in Molecular Biosciences, 5. doi:[10.3389/fmolb.2018.00062](https://doi.org/10.3389/fmolb.2018.00062).
+- Haak, M., Vinke, S., Keller, W., Droste, J., Rückert, C., Kalinowski, J., & **Pucker, B.** (2018). High Quality de novo Transcriptome Assembly of Croton tiglium. Frontiers in Molecular Biosciences, 5. doi:[10.3389/fmolb.2018.00062](https://doi.org/10.3389/fmolb.2018.00062).
 
