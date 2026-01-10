@@ -1,5 +1,5 @@
 # Soft skill seminars offered to PuckerLab members
-This repositories lists seminars available to members of the [PuckerLab](https://www.izmb.uni-bonn.de/en/pbb).
+This repository lists seminars available to members of the [PuckerLab](https://www.izmb.uni-bonn.de/en/pbb).
 
 
 ## Time & Project Management
