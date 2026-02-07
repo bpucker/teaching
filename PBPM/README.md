@@ -18,5 +18,5 @@
 ### 8: Repetitorium
 
 ## References
-
+- Grünig, N., Horz, J.M. & Pucker, B. Diversity and ecological functions of anthocyanins. BMC Plant Biol 26, 146 (2026). doi: [10.1186/s12870-025-08006-3](https://doi.org/10.1186/s12870-025-08006-3).
 
