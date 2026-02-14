@@ -151,7 +151,7 @@ A fellowship provided by the Stifterverband supported the development of a digit
 
 ## Teaching publications
 
-- de Oliveira, J. A. V. S.; Choudhary, N.; Meckoni, S. N.; Nowak, M. S.; Hagedorn, M.; Pucker, B. (2025). Cookbook for Plant Genome Sequences. doi: [10.20944/preprints202508.1176.v2](https://www.doi.org/10.20944/preprints202508.1176.v2).
+- de Oliveira, J. A. V. S.; Choudhary, N.; Meckoni, S. N.; Nowak, M. S.; Hagedorn, M.; Pucker, B. (2025). Cookbook for Plant Genome Sequences. BMC Genomics (2026). doi: [10.1186/s12864-026-12623-z](https://doi.org/10.1186/s12864-026-12623-z).
 
 - Wolff, K.; Friedhoff, R.; Schwarzer, F.; **Pucker, B.** (2023). Data Literacy in Genome Research. Journal of Integrative Bioinformatics, 2023, pp. 20230033. doi: [10.1515/jib-2023-0033](https://doi.org/10.1515/jib-2023-0033).
 
