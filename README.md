@@ -1,6 +1,7 @@
 # Teaching Overview
 
-
+If you would like to take any of our courses, consider studying at UniBonn:
+[Bachelor Biology](https://www.biologie.uni-bonn.de/de/studium/b-sc-biologie) or [Master Plant Sciences](https://www.uni-bonn.de/de/studium/studienangebot/studiengaenge-a-z/plant-sciences-msc)
 
 ## Teaching at Uni Bonn
 PuckerLab website: [Pucker lab website at Uni Bonn](https://www.pbb.uni-bonn.de)
