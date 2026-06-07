@@ -9,6 +9,15 @@ This repository lists seminars available to members of the [PuckerLab](https://w
 - Project management
 - Hands-on examples for time and project management
 
+## Cloning, Sequencing, Pigments, Talks/Posters, Data Literacy & AI
+- Primer design and PCR
+- Cloning strategies
+- Transformation methods
+- Nanopore sequencing basics
+- Introduction to plant pigments: anthocyanins, betalains, carotenoids
+- How to design talks and posters
+- Data Literacy in life sciences
+- AI applications in life sciences: potential and risks
 
 ## Scientific Writing & Publishing Business
 - How to write a thesis?
