@@ -1,22 +1,22 @@
 # Plant Biochemistry, Physiology and Molecular Biology (PBPM) lecture
 
 ## Content
-### 1: Brief overview of plant systematics, model plants
+### 1: Introduction & Model Plants
 
-### 2: Plant genomics
+### 2: DNA & RNA
 
-### 3: Molecular biology, gene expression, protein biosynthesis
+### 3: Plant Genomics
 
-### 4: Primary metabolism, nitrate assimilation, important symbioses (mycorrhiza and rhizobia)
+### 4: Protein Biosynthesis & Turnover; Lipids; Carbohydrates; Nitrogen Metabolism
 
-### 5: Specialized metabolism
+### 5: Specialized Plant Metabolism
 
-### 6: Plant transformation, transgenic plants in research and applications
+### 6: Plant Biotechnology & Synthetic Biology
 
-### 7: Evolutionary concepts
+### 7: Plant Genetics & Evolution
 
-### 8: Repetitorium
+### 8: Repetition
 
 ## References
-- Grünig, N., Horz, J.M. & Pucker, B. Diversity and ecological functions of anthocyanins. BMC Plant Biol 26, 146 (2026). doi: [10.1186/s12870-025-08006-3](https://doi.org/10.1186/s12870-025-08006-3).
-
+- Grünig, N., Horz, J.M. & Pucker, B. Diversity and ecological functions of anthocyanins. BMC Plant Biol 26, 146 (2025). doi: [10.1186/s12870-025-08006-3](https://doi.org/10.1186/s12870-025-08006-3).
+- Choudhary, N., Khatun, N. and Pucker, B. (2026). Almost 200 years of anthocyanin research: What we know, what we assume and what remains unknown. Plant Biol J. doi: [10.1111/plb.70283](https://doi.org/10.1111/plb.70283).
