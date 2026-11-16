@@ -25,7 +25,11 @@ Material used in this course can be found [here](https://github.com/bpucker/teac
 Material used in this course can be found [here](https://github.com/bpucker/teaching/tree/master/PBPM)
 
 ### Introduction to Molecular Plant Biology (BIO13)
-Materials are only available in German and will be added [here](https://github.com/bpucker/teaching/tree/master/BIO13) soon.
+Materials are only available in German [here](https://github.com/bpucker/teaching/tree/master/BIO13).
+
+### Applied Plant Transcriptomics (APTO)
+Materials are only available [here](https://github.com/bpucker/teaching/tree/master/APT).
+
 
 ### Soft Skill Seminar
 Internal seminars for PuckerLab members. Content is summarized [here](https://github.com/bpucker/teaching/tree/master/SoftSkillSeminars).
