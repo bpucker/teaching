@@ -31,14 +31,15 @@
 - Document metadata
 - Downloading RNA-seq data with XpBrew (all Digitalis data)
 
-# RNA-seq quality control & _de novo_ transcriptome assembly
+# RNA-seq quality control & trimming
 - FastQC
 - Trimmomatic
-- Transcriptome assembly with Trinity
+
 
 
 # WEEK 2
-## Assembly QC
+## _De novo_ assembly QC
+- De novo transcriptome assembly with Trinity
 - Calculate statistics
 - Trimming assembly and header names
 - BUSCO: assembly completeness
@@ -48,7 +49,7 @@
 - HISAT
 - bowtie2
 - converting, sorting, indexing with samtools
-- coverage calulation
+- coverage calculation
 - DNA vs. RNA quantification
 
 ## Expression quantification
@@ -86,7 +87,7 @@
 - scientific publishing seminar
 
 ## Long read transcriptomics (optional)
-- de novo transcriptome assembly
+- _de novo_ transcriptome assembly
 
 
 # WEEK 4
